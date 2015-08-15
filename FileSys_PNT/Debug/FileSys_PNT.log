@@ -1,0 +1,51 @@
+﻿生成启动时间为 2015/6/13 19:58:13。
+     1>项目“C:\Users\PNT\Desktop\File\FileSys_PNT\FileSys_PNT\FileSys_PNT.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt UserCommand.cpp innerOP.cpp
+         innerOP.cpp
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\innerop.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\innerop.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\innerop.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\innerop.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\innerop.cpp(197): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\innerop.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+         UserCommand.cpp
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(224): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(225): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(227): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(228): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(230): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(231): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(235): warning C4258: “k”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(201) : 忽略“k”的定义
+                 c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(195) : 使用“k”的定义
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(546): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\pnt\desktop\file\filesys_pnt\filesys_pnt\usercommand.cpp(599): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PNT\Desktop\File\FileSys_PNT\Debug\FileSys_PNT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PNT\Desktop\File\FileSys_PNT\Debug\FileSys_PNT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PNT\Desktop\File\FileSys_PNT\Debug\FileSys_PNT.lib" /MACHINE:X86 Debug\Block_Operation.obj
+         Debug\cmd.obj
+         Debug\innerOP.obj
+         Debug\Install.obj
+         Debug\Get.obj
+         Debug\main.obj
+         Debug\release.obj
+         Debug\UserCommand.obj
+         FileSys_PNT.vcxproj -> C:\Users\PNT\Desktop\File\FileSys_PNT\Debug\FileSys_PNT.exe
+     1>已完成生成项目“C:\Users\PNT\Desktop\File\FileSys_PNT\FileSys_PNT\FileSys_PNT.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.86
